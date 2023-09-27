@@ -1,0 +1,63 @@
+    1  e :
+    2  cd E:
+    3  ls 
+    4  mkdir rajeshgit
+    5  cd rajeshgit
+    6  ssh-keygen 
+    7  cat ~./.ssh/id_rsa.pub
+    8  cat ~/.ssh/id_rsa.pub
+    9  gitclone git@github.com:rajeshkhannamoka/gitpractice.git
+   10  git clone git@github.com:rajeshkhannamoka/gitpractice.git
+   11  ls 
+   12  ls 
+   13  ls -ltar
+   14  git status 
+   15  cd 
+   16  ls
+   17  cd E:
+   18  ls 
+   19  cd rajeshgit
+   20  ls 
+   21  cd gitpractice
+   22  git status 
+   23  cd ..
+   24  git clone https://github.com/basker19moon/DecRelease22
+   25  ls 
+   26  cd DecRelease22/
+   27  ls -l
+   28  cat allign_txt.py
+   29  cd
+   30  cd E"
+   31  cd E:
+   32  cd rajeshgit/
+   33  cd gitpractice
+   34  git status 
+   35  git pull 
+   36  git status 
+   37  ls 
+   38  git checkout 
+   39  git branch 
+   40  git checkout feature 
+   41  git branch 
+   42  git checkout dev
+   43  cd ..
+   44  cd gitpractice
+   45  git checkout 
+   46  git checkout main 
+   47  git checkout dev
+   48  git checkout main/dev
+   49  git create dev
+   50  git --help 
+   51  git branch dev
+   52  ls 
+   53  git checkout dev
+   54  git branch 
+   55  git status 
+   56  cd ..
+   57  cd gitpractice 
+   58  git push 
+   59   git push --set-upstream origin dev
+   60   git push --set-upstream main dev
+   61   git push --set-upstream origin dev
+   62  history 
+   63  history >> commands.txt
